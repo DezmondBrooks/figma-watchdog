@@ -55,3 +55,7 @@ This project will evolve to include:
 - 🧪 Testing Figma variants (e.g., dark/light mode or responsive layouts)
 
 ---
+
+
+🙌 Contributions Welcome
+If you're excited about AI + design integrity, feel free to fork, experiment, and open a PR. This tool has the potential to evolve into a powerful open-source standard for visual design enforcement.

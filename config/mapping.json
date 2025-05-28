@@ -1,0 +1,4 @@
+{
+  "Header Logo": "img[alt='Site Logo']",
+  "CTA Button": "button[data-testid='cta']"
+}
